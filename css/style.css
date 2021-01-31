@@ -1,0 +1,104 @@
+    body{    
+    background:  black;    
+    }    
+    .container_div{    
+    background:  white;    
+    width:  90%;    
+    top:  50%;    
+    left:  50%;    
+    position:  absolute;    
+    min-height:  550px;    
+    margin:  -275px  0  0  -45%;    
+    border:  1px  solid  grey;    
+    padding:  5px;    
+    }    
+    .header_div{    
+    position:  absolute;    
+    width:  90%;    
+    min-height:  90  px;    
+    top:  5%;    
+    left:  4.5%;    
+    border-bottom:  5px  solid  black;    
+    }    
+    .body_div{    
+    width:  100%;    
+    min-height:  450px;    
+    }    
+    .left_div{    
+    position:  absolute;    
+    padding:5px;    
+    float:left;    
+    top:  125px;    
+    width:15%;    
+    min-height:410px;    
+    border:  5px  solid  black;    
+    }    
+    .middle_div{    
+    position:  absolute;    
+    padding:5px;    
+    float:right;    
+    top:  125px;    
+    left:  17.5%;    
+    width:40%;    
+    min-height:410px;    
+    border:  5px  solid  grey;    
+    overflow:  scroll;    
+    }    
+
+
+    .delete_div{    
+    position:  absolute;    
+    padding:5px;    
+    float:right;    
+    top:  200px;    
+    left:  25%;    
+    width:40%;    
+    min-height:410px;    
+    }    
+
+    .edit_div{    
+    position:  absolute;    
+    padding:5px;    
+    float:right;    
+    top:  200px;    
+    left:  25%;    
+    width:40%;    
+    min-height:410px;    
+    }    
+
+    .add_div{    
+    position:  absolute;    
+    padding:5px;    
+    float:right;    
+    top:  200px;    
+    left:  25%;    
+    width:40%;    
+    min-height:410px;    
+    }    
+    .right_div{    
+    position:  absolute;    
+    padding:5px;    
+    float:right;    
+    top:  125px;    
+    left:  60%;    
+    width:38%;    
+    min-height:410px;    
+    border:  5px  solid  black;    
+    }    
+    .student_table{    
+    position:  absolute;    
+    float:  right;    
+    top:  100px;    
+    left:  2%;    
+    width:  55%;    
+    min-height:  50%;    
+    border:  1px  solid  black;    
+    padding:  5px;    
+    }
+    .selectedRow{
+      background: 'yellow';
+     }
+    .row{
+      background: 'white';
+     }
+    th,td{  border:  1px  solid  black;  padding:  5px;  text-align:  center;}    
